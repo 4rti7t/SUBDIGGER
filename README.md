@@ -67,12 +67,19 @@ Here’s an example of how the tool interacts with the user:
 **RESULTS**:
 
 Enter the domain (e.g., example.com): example.com
+
 Enumerating subdomains... ◯
+
 Enumerating subdomains... ◔
+
 Live Subdomain Found: subdomain.example.com ✅
+
 Enumerating subdomains... ◑
+
 Enumerating subdomains... ◕
+
 Live Subdomain Found: api.example.com ✅
+
 No more live subdomains found. 🚫
 
 **🤝 Contributing**
@@ -89,7 +96,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🙏 **Acknowledgements**
 
 Sublist3r: The subdomain enumeration tool powering this project.
+
 Colorama: Helps in adding color to the terminal output for better readability.
+
 Python's requests library: Handles HTTP requests efficiently.
 
 📬 **Contact**
