@@ -54,7 +54,7 @@ pip install sublist3r
 
 Once everything is set up, you can start the tool with the following command:
 ```
-SubDigger.py
+python3 SubDigger.py
 ```
 Enter the domain you want to check (e.g., example.com).
 
