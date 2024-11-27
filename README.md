@@ -34,11 +34,12 @@ Follow these steps to install and use the tool:
 Clone the repository:
 ```
 
-git clone https://github.com/your-username/subdomain-enumeration-tool.git
-cd subdomain-enumeration-tool
-Install the required dependencies:
+git clone https://github.com/4rti7t/SUBDIGGER.git
+cd SUBDIGGER
 ```
-**REQUIREMENTS:**
+
+**Install the required dependencies:**
+
 ```
 pip install -r requirements.txt
 ```
