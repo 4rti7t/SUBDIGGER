@@ -67,19 +67,12 @@ Here’s an example of how the tool interacts with the user:
 **RESULTS**:
 
 Enter the domain (e.g., example.com): example.com
-
 Enumerating subdomains... ◯
-
 Enumerating subdomains... ◔
-
 Live Subdomain Found: subdomain.example.com ✅
-
 Enumerating subdomains... ◑
-
-Enumerating subdomains... ◕
-
+Enumerating subdomains... ◕   
 Live Subdomain Found: api.example.com ✅
-
 No more live subdomains found. 🚫
 
 **🤝 Contributing**
